@@ -1,0 +1,26 @@
+--- BANK MANAGEMENT SYSTEM ---
+1. Display Account Details
+2. Deposit Money
+3. Withdraw Money
+4. Check Balance
+5. Exit
+
+Enter your choice: 1
+
+Account Number: 1001
+Account Holder: Dinesh
+Balance: Rs.5000.0
+
+Enter your choice: 2
+Enter deposit amount: 2000
+Amount Deposited Successfully!
+
+Enter your choice: 3
+Enter withdrawal amount: 1000
+Amount Withdrawn Successfully!
+
+Enter your choice: 4
+Current Balance: Rs.6000.0
+
+Enter your choice: 5
+Thank you for using our bank!
